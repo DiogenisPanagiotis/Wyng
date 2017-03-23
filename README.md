@@ -8,6 +8,7 @@ Technologies utilized:
 - Vue.js
 - Node.js
 - Express.js
+- Webpack
 
 ## Demo
 
