@@ -541,7 +541,7 @@
     height: 100px;
     width: 555px;
     border-radius: 3px;
-    background-color: #1dc2d1;
+    background-color: #5c0f8c;
     margin-top: 2px;
   }
   .footer2 {
