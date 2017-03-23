@@ -45,7 +45,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <img class='' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
+                    <img class='modal-logo' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
                   </div>
                   <div class="modal-body">
                     <object class="pdf" type="text/html" data="https://www.wyng.com/wp-content/uploads/2017/03/Wyng_Carolina-Panthers-Case-Study_Final.pdf" width="500px" height="300px"></object>
@@ -60,7 +60,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <img class='' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
+                    <img class='modal-logo' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
                   </div>
                   <div class="modal-body">
                     <object class="pdf" type="text/html" data="https://experiences.wyng.com/campaign/?experience=57c9c3b523847f689dc44e85" width="500px" height="300px"></object>
@@ -75,7 +75,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <img class='' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
+                    <img class='modal-logo' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
                   </div>
                   <div class="modal-body">
                     <object class="pdf" type="text/html" data="https://experiences.wyng.com/campaign/?experience=58a631546caf49286e30e497" width="500px" height="300px"></object>
@@ -90,7 +90,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <img class='' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
+                    <img class='modal-logo' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
                   </div>
                   <div class="modal-body">
                     <object class="pdf" type="text/html" data="https://www.wyng.com/wp-content/uploads/2016/10/Bon-Ton-Case-Study-Wyng-2.pdf" width="500px" height="300px"></object>
@@ -105,7 +105,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <img class='' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
+                    <img class='modal-logo' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
                   </div>
                   <div class="modal-body">
                     <object class="pdf" type="text/html" data="https://www.wyng.com/wp-content/uploads/2016/10/Shu-Uemura-Case-Study-Wyng-2.pdf" width="500px" height="300px"></object>
@@ -120,7 +120,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <img class='' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
+                    <img class='modal-logo' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
                   </div>
                   <div class="modal-body">
                     <object class="pdf" type="text/html" data="https://www.wyng.com/wp-content/uploads/2016/10/SoulCycle-Case-Study-Wyng-2.pdf" width="500px" height="300px"></object>
@@ -135,7 +135,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <img class='' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
+                    <img class='modal-logo' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
                   </div>
                   <div class="modal-body">
                     <object class="pdf" type="text/html" data="https://www.wyng.com/wp-content/uploads/2016/10/McCormick-Case-Study-Wyng-1.pdf" width="500px" height="300px"></object>
@@ -150,7 +150,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <img class='' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
+                    <img class='modal-logo' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
                   </div>
                   <div class="modal-body">
                     <object class="pdf" type="text/html" data="https://experiences.wyng.com/campaign/?experience=589c90a823847f040f73cdef" width="500px" height="300px"></object>
@@ -165,7 +165,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <img class='' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
+                    <img class='modal-logo' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
                   </div>
                   <div class="modal-body">
                     <object class="pdf" type="text/html" data="https://experiences.wyng.com/campaign/?experience=587e85766caf495b07f6eca1" width="500px" height="300px"></object>
@@ -180,7 +180,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <img class='' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
+                    <img class='modal-logo' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
                   </div>
                   <div class="modal-body">
                     <object class="pdf" type="text/html" data="http://info.wyng.com/top-retail-digital-marketing-campaigns?utm_campaign=Gated%20Resources&utm_source=Website-Resources" width="500px" height="300px"></object>
@@ -195,7 +195,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <img class='' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
+                    <img class='modal-logo' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
                   </div>
                   <div class="modal-body">
                     <object class="pdf" type="text/html" data="http://custom.wyng.com/?experience=faceoff&action=preview&hash=nothinginside" width="500px" height="300px"></object>
@@ -210,7 +210,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <img class='' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
+                    <img class='modal-logo' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
                   </div>
                   <div class="modal-body">
                     <object class="pdf" type="text/html" data="https://www.wyng.com/wp-content/uploads/2017/03/Wyng_Five-Guys-Case-Study_Final.pdf" width="500px" height="300px"></object>
@@ -225,7 +225,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <img class='' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
+                    <img class='modal-logo' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
                   </div>
                   <div class="modal-body">
                     <object class="pdf" type="text/html" data="https://www.wyng.com/wp-content/uploads/2017/03/Wyng_Five-Guys-Case-Study_Final.pdf" width="500px" height="300px"></object>
@@ -240,7 +240,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <img class='' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
+                    <img class='modal-logo' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
                   </div>
                   <div class="modal-body">
                     <object class="pdf" type="text/html" data="https://www.wyng.com/wp-content/uploads/2017/03/Wyng_Five-Guys-Case-Study_Final.pdf" width="500px" height="300px"></object>
@@ -255,7 +255,7 @@
                 <div class="modal-content">
                   <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <img class='' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
+                    <img class='modal-logo' height='15' width='52' src='https://image.ibb.co/bxK4Dv/wyng_logo_white.png'>
                   </div>
                   <div class="modal-body">
                     <object class="pdf" type="text/html" data="https://www.wyng.com/wp-content/uploads/2017/03/Wyng_Five-Guys-Case-Study_Final.pdf" width="500px" height="300px"></object>
