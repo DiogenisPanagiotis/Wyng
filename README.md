@@ -2,7 +2,7 @@
 
 ## Description
 
-This project provides access to Wyng's case studies and templates.
+This project provides a glance at Wyng's case studies and templates.
 
 Technologies utilized:
 - Vue.js
